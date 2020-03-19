@@ -2,11 +2,11 @@
   margin:0px;
   background-color:rgba(246, 247, 249, 1);
   background-image:none;
-  position:relative;
-  left:0px;
+  position:static;
+  left:auto;
   width:375px;
-  margin-left:auto;
-  margin-right:auto;
+  margin-left:0;
+  margin-right:0;
   text-align:left;
 }
 .form_sketch {
@@ -5951,6 +5951,7 @@
   font-weight:400;
   font-style:normal;
   font-size:18px;
+  color:#F59A23;
   text-align:left;
 }
 #u174 {
@@ -5965,6 +5966,7 @@
   font-weight:400;
   font-style:normal;
   font-size:18px;
+  color:#F59A23;
   text-align:left;
 }
 #u174 .text {
@@ -5997,6 +5999,7 @@
   font-weight:400;
   font-style:normal;
   font-size:18px;
+  color:#F59A23;
   text-align:left;
 }
 #u175 {
@@ -6011,6 +6014,7 @@
   font-weight:400;
   font-style:normal;
   font-size:18px;
+  color:#F59A23;
   text-align:left;
 }
 #u175 .text {
@@ -6043,6 +6047,7 @@
   font-weight:400;
   font-style:normal;
   font-size:18px;
+  color:#F59A23;
   text-align:left;
 }
 #u176 {
@@ -6057,6 +6062,7 @@
   font-weight:400;
   font-style:normal;
   font-size:18px;
+  color:#F59A23;
   text-align:left;
 }
 #u176 .text {
@@ -6089,6 +6095,7 @@
   font-weight:400;
   font-style:normal;
   font-size:18px;
+  color:#F59A23;
   text-align:left;
 }
 #u177 {
@@ -6103,6 +6110,7 @@
   font-weight:400;
   font-style:normal;
   font-size:18px;
+  color:#F59A23;
   text-align:left;
 }
 #u177 .text {
@@ -6135,6 +6143,7 @@
   font-weight:400;
   font-style:normal;
   font-size:18px;
+  color:#F59A23;
   text-align:left;
 }
 #u178 {
@@ -6149,6 +6158,7 @@
   font-weight:400;
   font-style:normal;
   font-size:18px;
+  color:#F59A23;
   text-align:left;
 }
 #u178 .text {
@@ -6181,6 +6191,7 @@
   font-weight:400;
   font-style:normal;
   font-size:18px;
+  color:#F59A23;
   text-align:left;
 }
 #u179 {
@@ -6195,6 +6206,7 @@
   font-weight:400;
   font-style:normal;
   font-size:18px;
+  color:#F59A23;
   text-align:left;
 }
 #u179 .text {
@@ -6275,6 +6287,7 @@
   font-weight:400;
   font-style:normal;
   font-size:18px;
+  color:#F59A23;
   text-align:left;
 }
 #u182 {
@@ -6289,6 +6302,7 @@
   font-weight:400;
   font-style:normal;
   font-size:18px;
+  color:#F59A23;
   text-align:left;
 }
 #u182 .text {
@@ -6321,6 +6335,7 @@
   font-weight:400;
   font-style:normal;
   font-size:18px;
+  color:#F59A23;
   text-align:left;
 }
 #u183 {
@@ -6335,6 +6350,7 @@
   font-weight:400;
   font-style:normal;
   font-size:18px;
+  color:#F59A23;
   text-align:left;
 }
 #u183 .text {
@@ -6367,6 +6383,7 @@
   font-weight:400;
   font-style:normal;
   font-size:18px;
+  color:#F59A23;
   text-align:left;
 }
 #u184 {
@@ -6381,6 +6398,7 @@
   font-weight:400;
   font-style:normal;
   font-size:18px;
+  color:#F59A23;
   text-align:left;
 }
 #u184 .text {
@@ -6413,6 +6431,7 @@
   font-weight:400;
   font-style:normal;
   font-size:18px;
+  color:#F59A23;
   text-align:left;
 }
 #u185 {
@@ -6427,6 +6446,7 @@
   font-weight:400;
   font-style:normal;
   font-size:18px;
+  color:#F59A23;
   text-align:left;
 }
 #u185 .text {
@@ -6459,6 +6479,7 @@
   font-weight:400;
   font-style:normal;
   font-size:18px;
+  color:#F59A23;
   text-align:left;
 }
 #u186 {
@@ -6473,6 +6494,7 @@
   font-weight:400;
   font-style:normal;
   font-size:18px;
+  color:#F59A23;
   text-align:left;
 }
 #u186 .text {
@@ -6505,6 +6527,7 @@
   font-weight:400;
   font-style:normal;
   font-size:18px;
+  color:#F59A23;
   text-align:left;
 }
 #u187 {
@@ -6519,6 +6542,7 @@
   font-weight:400;
   font-style:normal;
   font-size:18px;
+  color:#F59A23;
   text-align:left;
 }
 #u187 .text {
