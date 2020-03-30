@@ -12,10 +12,15 @@
 }
 ._默认样式 {
 }
-.placeholder {
+.box_2 {
+}
+.ellipse {
 }
 .link_button {
   color:#169BD5;
+}
+._形状 {
+  color:#333333;
 }
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
@@ -73,56 +78,6 @@
 }
 .form_disabled {
 }
-.label {
-  font-size:14px;
-  text-align:left;
-}
-.line {
-}
-.horizontal_line {
-}
-.box_1 {
-}
-._34号字_单行列表内，左方主标题文字字） {
-  font-family:'PingFang SC Normal', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-  font-size:17px;
-  text-align:left;
-}
-._28号字_页面备注信息及列表的表头说明文字__） {
-  font-family:'PingFang SC Normal', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-  font-size:14px;
-  text-align:left;
-}
-._24号字_最小说明文本，例如列表时间态、版权信息等） {
-  font-family:'PingFang SC Normal', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-  font-size:12px;
-  text-align:left;
-}
-.image {
-  color:#000000;
-}
-.paragraph {
-  text-align:left;
-}
-.shape {
-}
-.box_2 {
-}
-.icon {
-}
-.fontawesome {
-  font-family:'FontAwesome';
-  font-weight:400;
-  font-style:normal;
-  font-size:36px;
-  color:#797979;
-}
 ._文本链接 {
   color:#0000FF;
 }
@@ -148,7 +103,7 @@
   color:#FFFFFF;
   text-align:center;
 }
-.box_11 {
+.box_1 {
 }
 ._自定义_三级菜单 {
   font-family:'Arial Normal', 'Arial';
@@ -231,7 +186,7 @@
 ._连接线 {
   color:#333333;
 }
-._形状 {
+._形状1 {
   font-size:13px;
   color:#000000;
 }
@@ -279,7 +234,7 @@
   color:#FFFFFF;
   text-align:center;
 }
-._形状1 {
+._形状2 {
 }
 .basicbutton-outline {
   font-family:'Roboto Normal', 'Roboto';
@@ -370,18 +325,18 @@
 }
 .box_21 {
 }
-.image1 {
+.image {
   color:#000000;
 }
 ._水平线3 {
 }
 .box_3 {
 }
-.ellipse {
+.icon {
 }
-.image2 {
+.image1 {
 }
-.box_22 {
+.placeholder {
 }
 .text_field {
   color:#000000;
@@ -391,19 +346,17 @@
   color:#000000;
   text-align:left;
 }
-.line1 {
-}
-._形状2 {
-  font-family:'微软雅黑';
-  font-weight:400;
-  font-style:normal;
-  font-size:14px;
-  color:#666666;
+.line {
 }
 .table_cell {
 }
-.label1 {
+.label {
   font-size:14px;
   text-align:left;
+}
+.shape {
+}
+.image2 {
+  color:#000000;
 }
 textarea, select, input, button { outline: none; }
